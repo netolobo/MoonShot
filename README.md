@@ -1,14 +1,14 @@
 # MoonShot
 
-<div>
-  <img src="https://github.com/netolobo/Calculator/assets/641469/e8fa9305-e055-4c82-9da9-6c64761436fd" width="325" height="640"/>&nbsp;
-  </div>
-  
+This app shows the progress of the entire Apollo mission.
+
+https://github.com/netolobo/MoonShot/assets/641469/5ab33fa2-486b-4d59-8e76-6a51272940d4
   
 ### 🧰 Tech Used :
 - SwiftUI
 - Swift
 - Json
-- 
+- Codable
+- Generics
 
-https://github.com/netolobo/MoonShot/assets/641469/5ab33fa2-486b-4d59-8e76-6a51272940d4
+
